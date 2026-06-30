@@ -1,15 +1,21 @@
-## Hi there 👋
+## Hi, I'm Binita Khan Shakal 👋
 
+I'm a Software Quality Assurance Engineer with experience in manual testing, API testing, bug reporting, and Agile development. Currently, I work as a Support Engineer while continuing to build my expertise in Software Quality Assurance and Python.
 
-**I am Binita Khan Shakal.** Most people know me as "Shokal", means **"Morning"**. Currenly I am working as a Support Engineer. However, I am passionate about SQA! 
+I'm passionate about delivering high-quality software and continuously learning new technologies.
 
-Eat - Test - Rest - Repeat!!
+**Passionate about Quality • Continuous Learning • Problem Solving**
 
+🔭 Currently working as a Support Engineer at IOVISION
 
+🌱 Currently learning
+- Python
+- Automation Testing (Playwright & Selenium)
+- SQL
 
-- 🔭 I’m currently working on **Iovision**
-- 🌱 I’m currently learning **Coding** to be a pro coder
-- 👯 I’m looking to collaborate on **Beta Testing**
-- 📫 How to reach me: Just mail me at **binita.khan23@gmail.com**
-- 😄 Pronouns: **Shokal**
-- ⚡ Fun fact: **I love to cook and travel.** 
+👯 Open to collaborating on
+- Software Testing
+- QA Automation
+- Open Source Testing Projects
+
+💼 Currently seeking a full-time Software Quality Assurance (SQA) Engineer opportunity where I can grow professionally and contribute to building high-quality software.
