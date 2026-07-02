@@ -6,7 +6,6 @@ Welcome to my GitHub!
 
 I'm a **Software Quality Assurance Engineer** with nearly **2 years of experience** in software testing, specializing in **manual testing, API testing, test case design, bug reporting, and Agile development**.
 
-Currently, I'm working as a **Support Engineer at IOVISION**, where I contribute to maintaining mission-critical systems while continuously strengthening my expertise in **Software Quality Assurance, Python, and Test Automation**.
 
 I enjoy solving problems, improving software quality, and learning modern testing technologies that help build reliable and user-friendly applications.
 
@@ -14,16 +13,11 @@ I enjoy solving problems, improving software quality, and learning modern testin
 
 ---
 
-## 🚀 What I'm Working On
-
-🔭 **Current Role**
-- Support Engineer at **IOVISION**
-
 🌱 **Currently Learning**
 
 - Playwright
 - Selenium
-- Automation Testing Best Practices
+- Automation Testing 
 
 👯 **Open to Collaborate On**
 - Software Testing
